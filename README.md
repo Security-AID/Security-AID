@@ -17,4 +17,6 @@ You can explore my cybersecurity work in my [project portfolio](https://github.c
 - I like turning security research into practical, documented projects.
 - Current interests: SOC analysis, application security, network defense, and vulnerability research.
 - When I am not assessing I am shadow boxing :D
-- I use Burp Suite so often that intercepting requests sometimes feels easier than understanding people’s responses. 😅
+- You intercept my requests, repeat my mistakes, and expose every red flag—but somehow, I still trust you with all my cookies ❤️🍪
+  Sincerely,
+  BURPSUITE 
