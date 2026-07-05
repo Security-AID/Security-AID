@@ -2,7 +2,7 @@
 
 I'm **Chuma Ejekute-Obi**, a cybersecurity graduate based in Dallas, Texas.
 
-I study how vulnerabilities affect websites, software, networks, endpoints, and embedded systems—and how those weaknesses can be detected and mitigated.
+I study how vulnerabilities affect websites, software, networks, endpoints, and embedded systems and how those weaknesses can be detected and mitigated.
 
 My hands-on work includes malware analysis, VirusTotal API integration, web application security testing, network traffic monitoring, Windows security automation, firmware extraction, and binary analysis.
 
